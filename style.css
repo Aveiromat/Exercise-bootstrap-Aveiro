@@ -72,8 +72,8 @@ nav.nav.nav-tabs {
     margin-bottom: 20px;
 }
 
-button.btn.btn-primary.mx-auto.mt-3.d-flex.align-items-center {
-    margin-bottom: 50px;
+.container.mt-5 {
+    padding-bottom: 30px;
 }
 
 @media (max-width: 375px) {
