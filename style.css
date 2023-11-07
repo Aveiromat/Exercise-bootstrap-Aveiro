@@ -145,13 +145,20 @@ nav.nav.nav-tabs {
 @media (min-width: 1023px) and (max-width: 1439px) {
 
     .carousel-item{
-        height: 230px;
+        height: 300px;
     }
 
     section {
         padding: 40px 70px 40px 70px;
     }
 }
+
+@media (min-width: 1440px) {
+    .carousel-item{
+        height: 400px;
+    }
+} 
+
 
 @media (min-width: 768px) {
     #inicio-desktop {
