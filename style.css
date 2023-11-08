@@ -50,6 +50,10 @@ div#inicio {
     margin-top: -70px;
 }
 
+:root {
+    color-scheme: light only;
+}
+
 section {
     height: auto;
     background-color: rgb(240, 240, 240);
